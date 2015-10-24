@@ -1,5 +1,4 @@
----
-layout: post
+---layout: post
 title: 为那些超越我的短暂生命的价值观念服务
 date: 2014-11-21
 categories: blog
