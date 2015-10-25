@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://b.hiphotos.baidu.com/image/pic/item/242dd42a2834349b2a657284cbea15ce36d3be4b.jpg" align="center"></p>
+    <p><img src="http://img1.touxiang.cn/uploads/20130417/17-014120_189.jpg" align="center"></p>
 </center>
 
 我是宋倩，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
