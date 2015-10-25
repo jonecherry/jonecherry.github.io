@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://tieba.baidu.com/p/2020065553" align="center"></p>
+    <p><img src="http://huaban.com/pins/60033002/" align="center"></p>
 </center>
 
 我是宋倩，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
