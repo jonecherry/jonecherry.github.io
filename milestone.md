@@ -7,7 +7,7 @@ header-img: "img/zhihu.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://img4.duitang.com/uploads/item/201201/19/20120119172026_tT8nW.jpg" align="center"></p>
 </center>
 
 
