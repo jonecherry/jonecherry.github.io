@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "About"
+title: "AboutMe"
 description: "学苟知本，六经皆我注脚 "
 header-img: "img/green.jpg"
 ---
 
 
 <center>
-    <p><img src="http://huaban.com/pins/60033002/" align="center"></p>
+    <p><img src="http://b.hiphotos.baidu.com/image/pic/item/242dd42a2834349b2a657284cbea15ce36d3be4b.jpg" align="center"></p>
 </center>
 
 我是宋倩，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
