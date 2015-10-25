@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "人生在世,难免糊涂 "
 header-img: "img/green.jpg"
 ---
 
@@ -9,9 +9,9 @@ header-img: "img/green.jpg"
 <center>
     <p><img src="http://img4.duitang.com/uploads/item/201201/19/20120119172026_tT8nW.jpg" align="center"></p>
 </center>
-你好
-你好
-你好
+我是陈宋宋
+愿你,愿我
+都不是一个人在奋斗
 
 ###联系
 
