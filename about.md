@@ -10,9 +10,9 @@ header-img: "img/green.jpg"
     <p><img src="http://img4.duitang.com/uploads/item/201201/19/20120119172026_tT8nW.jpg" align="center"></p>
 </center>
 
-我是陈宋宋,但我并不是一个人;
-愿你,愿我;
-奋斗的路上有人相陪.
+>我是陈宋宋,但我并不是一个人;
+>愿你,愿我;
+>奋斗的路上有人相陪.
 
 现在研习 **认知写作学** 。
 
