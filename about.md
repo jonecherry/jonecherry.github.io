@@ -1,16 +1,18 @@
 ---
 layout: page
-title: "AboutMe"
+title: "About"
 description: "学苟知本，六经皆我注脚 "
 header-img: "img/green.jpg"
 ---
 
 
 <center>
-    <p><img src="http://b.hiphotos.baidu.com/image/pic/item/8601a18b87d6277fa7fedc312a381f30e824fccf.jpg" align="center"></p>
+    <p><img src="http://img4.duitang.com/uploads/item/201201/19/20120119172026_tT8nW.jpg" align="center"></p>
 </center>
 
-我是宋倩，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+我是陈宋宋,但我并不是一个人;
+愿你,愿我;
+奋斗的路上有人相陪.
 
 现在研习 **认知写作学** 。
 
