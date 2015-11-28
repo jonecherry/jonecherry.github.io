@@ -11,11 +11,11 @@ description: 终于要开始小白之旅啦。
 
 ####沟通
 
-沟通是PM心中永恒的痛,值得一书再书。芬兰的人类交流学家Osmo Wiio说过:
+沟通是PM心中永恒的痛,值得一书再书。芬兰的人类交流学家Osmo Wiio甚至说:
 
 >Communication usually fails, except by accident
 
-他还提出了一个有意思的理论:当两个人在沟通的时候实际上是有六个人在沟通（https://medium.com/@jasonfried/osmo-wiio-communication-usually-fails-except-by-accident-bea265f0f920#.f1vv5hx00）.
+他还提出了一个有意思的理论:当两个人在沟通的时候实际上是有六个人在沟通.
 
 >作为一名PM，你也许花了许多时间在学习如何提升产品设计，需求处理和战略规划的能力上，最后却发现在这些高大上的工作最后都回归到了沟通。
 
@@ -41,6 +41,13 @@ description: 终于要开始小白之旅啦。
 沟通后:①沟通纪要总结;②TODO执行进展的check。
 
 沟通是一门艺术,特别是跨部门甚至是跨公司的沟通时,难度会更高,需要慢慢修炼。
+
+####需求管理
+
+
+
+###参考文献
+1.https://medium.com/@jasonfried/osmo-wiio-communication-usually-fails-except-by-accident-bea265f0f920#.f1vv5hx00
 
 
 
