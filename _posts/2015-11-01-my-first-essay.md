@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 陈宋宋的小白文档
+title: 小白文档(1)沟通&优先级
 date: 2015-11-01
 categories: blog
 tags: [github,麦肯锡]
