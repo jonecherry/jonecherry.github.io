@@ -43,7 +43,7 @@ git是代码管理工具，方便开发者之间的协作。下面根据自身�
  
 >常见命令
 
-git clone git@github.com:username/username.github.com.git //本地如果无远程代码
+git clone git@github.com:username/username.github.com.git 同步远程代码
 
 git pull 同步远程文件
 
