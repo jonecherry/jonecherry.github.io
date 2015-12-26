@@ -12,6 +12,7 @@ description: 终于要开始小白之旅啦。
 >Date:2015-12-26  
 
 git是代码管理工具，方便开发者之间的协作。下面根据自身使用经验，就git的使用规范以及常见命令做入门介绍。
+
 >使用规范：
 
   git branch feature_jchen master (在本地基于master分支创建feature_jchen分支)
