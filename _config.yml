@@ -8,7 +8,7 @@ url: "http://cnfeat"
 
 # About/contact
 owner: 
-  name: " CnFeat"
+  name: " jonecherry"
   email: CnFeat@gmail.com
   bio: "写就是写的报酬"
 
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  cnfeat
 twitter_username: feat
-github_username: cnfeat
+github_username: jonecherry
 facebook_username: 
 weibo_username: cnfeat 
-zhihu_username: feat
+zhihu_username: song-qian-1014
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -44,7 +44,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "陈宋宋"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
