@@ -20,7 +20,7 @@ git是代码管理工具，方便开发者之间的协作。下面根据自身�
   每次开发之前都需要更新自己本地的master分支，命令如下：
   
   git pull origin master
-  然后，执行以下命令将mater分支合并到你正在开发的feature_xxx分支来保保持代码最新。
+  然后，执行以下命令将mater分支合并到你正在开发的feature_xxx分支来保持代码最新。
   
   git checkout feature_jchen（切换当前分支到feature_jchen）
   
