@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="img/aboutme.jpg" align="center"></p>
+    <p><img src="img/浪漫猫.jpeg" align="center"></p>
 </center>
 我是陈宋宋
 愿你,愿我
