@@ -15,7 +15,7 @@ header-img: "img/green.jpg"
 
 ###联系
 
-- [博客：www.lovesung.cn](www.lovesung.cn)
+- [博客：www.lovesung.cn](http://www.lovesung.cn)
 
 - [微博@宋宋安](http://weibo.com/u/2099380252)
 
