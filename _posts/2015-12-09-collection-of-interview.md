@@ -3,7 +3,7 @@ layout: post
 title: 虾*扯*蛋
 date: 2015-12-09
 categories: blog
-tags: [github,麦肯锡]
+tags: [产品]
 description: 终于要开始小白之旅啦。
 
 

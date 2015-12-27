@@ -3,7 +3,7 @@ layout: post
 title: 小白文档(3)在拥抱变化中学习成长
 date: 2015-12-05
 categories: blog
-tags: [github,麦肯锡]
+tags: [产品]
 description: 终于要开始小白之旅啦。
 
 

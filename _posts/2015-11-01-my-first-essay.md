@@ -3,7 +3,7 @@ layout: post
 title: 小白文档(1)沟通&优先级
 date: 2015-11-01
 categories: blog
-tags: [github,麦肯锡]
+tags: [产品]
 description: 终于要开始小白之旅啦。
 
 
