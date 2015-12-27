@@ -3,7 +3,7 @@ layout: post
 title: 我的 Mac App 清单与使用习惯
 date: 2015-09-13
 categories: blog
-tags: [玩转Mac]
+tags: [杂记]
 description: 高效地使用 Mac App 清单。
 ---
 

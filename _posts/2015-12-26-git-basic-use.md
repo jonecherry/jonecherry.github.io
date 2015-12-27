@@ -3,7 +3,7 @@ layout: post
 title: git的基本使用
 date: 2015-12-26
 categories: blog
-tags: [研发，code管理工具，git]
+tags: [研发]
 description: 终于要开始小白之旅啦。
 
 
