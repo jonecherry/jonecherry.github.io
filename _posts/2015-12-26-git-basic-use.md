@@ -44,8 +44,19 @@ git是代码管理工具，方便开发者之间的协作。下面根据自身�
  
 >常见命令
 
-git clone git@github.com:username/username.github.com.git 同步远程代码
-
-git pull 同步远程文件
-
-git status 查看修改
+- git clone git@github.com:username/username.github.com.git 同步远程代码
+- git add 添加修改到暂存区
+- git commit 添加修改到本地当前分支
+- git push 添加修改到远程同名分支
+- git merge -m “  “ dev
+- git stash 暂存目前进行的工作# save uncommitted changes
+- git stash list     # list stashed changes in this git(工作现场)
+- git stash pop 继续原来的工作# apply last stash and remove it from the list
+- git stash apply 恢复被隐藏的文件，但是内容不删除
+- git log –pretty=oneline 简要显示
+- git reflog  获取版本号
+- 创建+切换分支：git checkout –b name
+- 删除分支：git branch –d name
+- 回退到100个版本，使用git reset –hard HEAD~100
+- git pull 同步远程文件
+- git status 查看修改
