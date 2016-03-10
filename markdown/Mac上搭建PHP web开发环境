@@ -1,0 +1,11 @@
+
+1. 安装brew
+- 安装命令:curl -LsSf http://github.com/mxcl/homebrew/tarball/master | sudo tar xvz -C/usr/local --strip 1
+2. 安装composer
+3. 安装laravel
+4. 安装nodejs
+5. gulp、bower(通过sudo npm install)
+6. 安装compass（如果没有反应，需要参考一下http://www.sjsjw.com/kf_jiagou/article/027841ABA028365.asp）
+7. apache配置
+- http://www.cnblogs.com/snandy/archive/2012/11/13/2765381.html
+- httpd.conf 中的DocumentRoot目录和Directory的目录保持一致
