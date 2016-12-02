@@ -1,3 +1,13 @@
+---
+layout: post
+title: shell-common
+date: 2016-12-02
+categories: blog
+tags: [研发]
+description: 常用linux 命令
+
+
+---
 mac 下查看端口监听 lsof -i :9000
 ps aux |grep php-fpm
 netstat -ant |grep 9000
